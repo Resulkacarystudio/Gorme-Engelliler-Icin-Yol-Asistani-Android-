@@ -44,7 +44,7 @@ Bu Android uygulaması, görme engelli bireylerin günlük yaşamlarını kolayl
 ## 📸 Uygulama Görselleri
 
 <p align="center">
-  <img src="images/1.jpeg" width="250"/>
+  <img src="images/1.jpeg" width="400"/>
   <img src="images/2.jpeg" width="250"/>
   <img src="images/3.jpeg" width="250"/>
   <img src="images/4.jpeg" width="250"/>
