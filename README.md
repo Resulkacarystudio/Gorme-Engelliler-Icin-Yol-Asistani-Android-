@@ -44,27 +44,27 @@ Bu Android uygulaması, görme engelli bireylerin günlük yaşamlarını kolayl
 ## 📸 Uygulama Görselleri
 
 <p align="center">
-  <img src="images/1.jpeg" width="400"/>
-  <img src="images/2.jpeg" width="400"/>
-  <img src="images/3.jpeg" width="400"/>
-  <img src="images/4.jpeg" width="400"/>
-  <img src="images/5.jpeg" width="400"/>
-  <img src="images/6.jpeg" width="400"/>
-  <img src="images/7.jpeg" width="400"/>
-  <img src="images/8.jpeg" width="400"/>
-  <img src="images/9.jpeg" width="400"/>
-  <img src="images/10.jpeg" width="400"/>
-  <img src="images/11.jpeg" width="400"/>
-  <img src="images/12.jpeg" width="400"/>
-  <img src="images/13.jpeg" width="400"/>
-  <img src="images/14.jpeg" width="400"/>
-  <img src="images/15.jpeg" width="400"/>
-  <img src="images/16.jpeg" width="400"/>
-  <img src="images/17.jpeg" width="400"/>
-  <img src="images/18.jpeg" width="400"/>
-  <img src="images/19.jpeg" width="400"/>
-  <img src="images/20.jpeg" width="400"/>
-  <img src="images/21.jpeg" width="400"/>
+  <img src="images/1.jpeg" width="500"/>
+  <img src="images/2.jpeg" width="500"/>
+  <img src="images/3.jpeg" width="500"/>
+  <img src="images/4.jpeg" width="500"/>
+  <img src="images/5.jpeg" width="500"/>
+  <img src="images/6.jpeg" width="500"/>
+  <img src="images/7.jpeg" width="500"/>
+  <img src="images/8.jpeg" width="500"/>
+  <img src="images/9.jpeg" width="500"/>
+  <img src="images/10.jpeg" width="500"/>
+  <img src="images/11.jpeg" width="500"/>
+  <img src="images/12.jpeg" width="500"/>
+  <img src="images/13.jpeg" width="500"/>
+  <img src="images/14.jpeg" width="500"/>
+  <img src="images/15.jpeg" width="500"/>
+  <img src="images/16.jpeg" width="500"/>
+  <img src="images/17.jpeg" width="500"/>
+  <img src="images/18.jpeg" width="500"/>
+  <img src="images/19.jpeg" width="500"/>
+  <img src="images/20.jpeg" width="500"/>
+  <img src="images/21.jpeg" width="500"/>
 </p>
 
 
